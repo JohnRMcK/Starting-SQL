@@ -1,5 +1,5 @@
 # Starting-SQL
-my first dive into learning SQL
+My first dive into learning SQL
 all credit to freeCodeCamp.org and their $ hour intro to SQL video on youtube. 
 CODE I MADE:
 
